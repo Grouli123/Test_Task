@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8def1af7cd4addb33cb8ccc0fafa98, type: 3}
+  m_Name: Sting Sword
+  m_EditorClassIdentifier: 
+  Name: Sting Sword
+  Description: Sting Sword
+  Icon: {fileID: -1135168305, guid: 7f73975ea2def034c9024f8c2c850abc, type: 3}
+  Rarity: 3
+  Type: 1
+  Characteristics:
+  - Type: 2
+    Value: 100
+  - Type: 1
+    Value: 300
+  Prefab: {fileID: 2698968396759130890, guid: aa6745f0866b0ce4cb5ad5a0d2a1bb34, type: 3}

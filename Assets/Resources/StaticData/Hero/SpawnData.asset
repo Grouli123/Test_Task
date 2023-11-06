@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645a6e4c4d013374fb32bbcc3acf84f3, type: 3}
+  m_Name: SpawnData
+  m_EditorClassIdentifier: 
+  HeroPrefab: {fileID: 4684724166972553566, guid: 1fcfa855187e0394592237b88d456e5c, type: 3}
+  SpawnPoint: {x: 8, y: 0, z: 10}

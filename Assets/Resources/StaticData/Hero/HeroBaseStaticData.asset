@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afcd4d9fdb7f4400b73f3109bd5c9672, type: 3}
+  m_Name: HeroBaseStaticData
+  m_EditorClassIdentifier: 
+  Characteristics:
+  - Type: 1
+    Value: 10
+  - Type: 2
+    Value: 200
+  - Type: 3
+    Value: 100
+  InventorySlotCount: 20
+  EquipmentSlots: 03000000010000000400000002000000
+  StaminaStaticData: {fileID: 11400000, guid: 60778c11b5ad900418407434aaa8f921, type: 2}
+  AttackData: {fileID: 11400000, guid: d70af834e6d99d04494daa44380ebc73, type: 2}
+  ImpactsData: {fileID: 11400000, guid: 432ff5cf51c4ad3438eda5133d08f2c5, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8def1af7cd4addb33cb8ccc0fafa98, type: 3}
+  m_Name: Knight Cuirass
+  m_EditorClassIdentifier: 
+  Name: Knight Cuirass
+  Description: Knight Cuirass
+  Icon: {fileID: 21300000, guid: beb747d823319b246896a8257c98c490, type: 3}
+  Rarity: 2
+  Type: 4
+  Characteristics:
+  - Type: 2
+    Value: 50
+  Prefab: {fileID: 6227877484928016717, guid: 680b0c0754c92bf41a9a77d7c0c9d6e0, type: 3}
